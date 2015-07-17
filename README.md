@@ -1,7 +1,7 @@
 # broccoli-haskell
 Haskell bindings to Broccoli, Bro's client communication library.
 
-Original author: David Banas
+Original author: David Banas  
 Original date:   July 17, 2015
 
 Copyright (c) 2015 David Banas; all rights reserved World wide.
